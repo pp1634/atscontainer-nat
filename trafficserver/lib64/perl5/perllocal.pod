@@ -1,0 +1,22 @@
+=head2 Mon May 18 12:48:55 2015: C<Module> L<Apache::TS|Apache::TS>
+
+=over 4
+
+=item *
+
+C<installed into: /opt/trafficserver/share/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.3.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

@@ -1,0 +1,8 @@
+FROM centos
+MAINTAINER Jeremy Payne <pp1634@att.com>
+ADD trafficserver /opt/trafficserver/
+ADD ts.sh /opt/trafficserver/bin/
+COPY libtcl* /lib64/
+CMD ["chown","-R","nobody","/opt/trafficserver/var/log/trafficserver","/opt/trafficserver/var/trafficserver","/opt/trafficserver/trafficserver/etc/trafficserver"]
+CMD ["/opt/trafficserver/bin/traffic_server","&"]
+EXPOSE 8080

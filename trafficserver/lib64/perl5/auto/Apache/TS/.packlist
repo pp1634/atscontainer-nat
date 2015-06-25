@@ -1,0 +1,8 @@
+/opt/trafficserver/share/man/man3/Apache::TS.3pm
+/opt/trafficserver/share/man/man3/Apache::TS::AdminClient.3pm
+/opt/trafficserver/share/man/man3/Apache::TS::Config::Records.3pm
+/opt/trafficserver/share/perl5/Apache/TS.pm
+/opt/trafficserver/share/perl5/Apache/TS.pm.in
+/opt/trafficserver/share/perl5/Apache/TS/AdminClient.pm
+/opt/trafficserver/share/perl5/Apache/TS/Config.pm
+/opt/trafficserver/share/perl5/Apache/TS/Config/Records.pm
